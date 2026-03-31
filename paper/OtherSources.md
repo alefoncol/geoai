@@ -1,5 +1,5 @@
 ---
-title: "Dive into Deep Learning" 
+title: "Dive into Deep Learning"
 tags:
     - Python
     - geospatial
@@ -11,7 +11,7 @@ tags:
 authors:
     - name: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
       Link: https://d2l.ai/.
-      
+
 affiliations:
     - name: Department of Geography & Sustainability, University of Tennessee, Knoxville, TN 37996, United States
       index: 1
